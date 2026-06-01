@@ -1,0 +1,22 @@
+{
+  "photo_id": "sample-photo-001",
+  "date": "2026-06-01",
+  "source": "family-chat-demo",
+  "provider": "manual-demo",
+  "format": "jpg",
+  "width": 800,
+  "height": 480,
+  "paths": {
+    "original": "runtime/original.jpg",
+    "enhanced": "runtime/enhanced.jpg",
+    "display": "runtime/display.jpg",
+    "meta": "examples/sample-photo-meta.json"
+  },
+  "factual_description": "A family photo prepared for the elder-side display.",
+  "elder_explanation": "This is a photo your family shared with you.",
+  "source_metadata": {
+    "channel": "family-chat-demo",
+    "contains_private_data": false
+  }
+}
+

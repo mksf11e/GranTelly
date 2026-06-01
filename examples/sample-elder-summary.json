@@ -1,0 +1,32 @@
+{
+  "elder_display_name": "Grandparent",
+  "relationship_label": "grandparent",
+  "last_updated": "2026-06-01T00:00:00Z",
+  "recent_conversations": [
+    {
+      "date": "2026-06-01",
+      "topic": "Photo question and daily check-in",
+      "topics": ["photo question", "daily check-in"],
+      "elder_question": "What is this photo?",
+      "elder_said": "I am doing fine today.",
+      "ai_response": "This looks like a family photo shared for you. How has your day been?",
+      "photo_id": "sample-photo-001",
+      "demo_event": true
+    }
+  ],
+  "pending_deliveries": [],
+  "photo_history": [
+    {
+      "photo_id": "sample-photo-001",
+      "date": "2026-06-01",
+      "display_path": "runtime/display.jpg",
+      "meta_path": "examples/sample-photo-meta.json",
+      "factual_description": "A family photo prepared for the elder-side display.",
+      "elder_explanation": "This is a photo your family shared with you."
+    }
+  ],
+  "display_state": {
+    "current_photo_id": "sample-photo-001"
+  }
+}
+

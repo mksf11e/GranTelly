@@ -1,0 +1,8 @@
+{
+  "type": "reply",
+  "session_id": "demo-session-id",
+  "text": "This is a photo your family shared with you. How has your day been?",
+  "emotion": "warm",
+  "current_photo_id": "sample-photo-001"
+}
+
