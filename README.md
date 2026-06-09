@@ -2,7 +2,7 @@
 
 AI-powered family connection for older adults and remote families.
 
-GIMY, short for **Grandma I Miss You**, is a dual-agent family communication bridge. Gimy is also the name of the agent experience: it helps older adults share daily life through a simple elder-side device, while helping remote family members receive concise updates, context, and conversation prompts.
+GIMY, the GranTelly, is a dual-agent family communication bridge. Gimy is also the name of the agent experience: it helps older adults share daily life through a simple elder-side device, while helping remote family members receive concise updates, context, and conversation prompts.
 
 This public repository is a **sanitized runnable demo skeleton** for UCWS Singapore Hackathon 2026. It shows the architecture, protocol, and local mock flow without exposing private prompts, real family memory, credentials, deployment details, or production data.
 
