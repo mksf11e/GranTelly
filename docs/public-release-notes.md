@@ -2,7 +2,7 @@
 
 This repository is intentionally sanitized.
 
-The public product name is **GIMY**, short for **Grandma I Miss You**. Internal version labels used during development are not part of the public positioning.
+The public product name is **GIMY**,  the GranTelly. Internal version labels used during development are not part of the public positioning.
 
 ## Removed From The Public Version
 
