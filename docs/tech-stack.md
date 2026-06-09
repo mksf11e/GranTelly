@@ -2,7 +2,7 @@
 
 ## Product Summary
 
-GIMY, short for **Grandma I Miss You**, is a dual-agent family communication bridge for older adults and remote families. Gimy is also the name of the agent experience: it helps the elder share daily life through a simple talking device, while helping family members receive summaries, context, and conversation prompts.
+GIMY,  the GranTelly, is a dual-agent family communication bridge for older adults and remote families. Gimy is also the name of the agent experience: it helps the elder share daily life through a simple talking device, while helping family members receive summaries, context, and conversation prompts.
 
 The elder-side product is designed as an elder-friendly little TV: no app, no typing, just look, press, and speak. GIMY is a low-friction bridge for more regular family communication, not a replacement for human care or relationship responsibility.
 
