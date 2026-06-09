@@ -2,7 +2,7 @@
 
 ## Overview
 
-GIMY, short for **Grandma I Miss You**, is built as a bridge between two familiar interaction modes:
+GIMY, the GranTelly, is built as a bridge between two familiar interaction modes:
 
 - The elder speaks naturally to a simple physical device.
 - The family member uses a normal chat interface.
